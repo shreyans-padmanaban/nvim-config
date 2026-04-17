@@ -1,0 +1,2 @@
+{"id":"4000e6e7-675d-4d79-b659-69f70882c243","ts":"2026-04-17T09:09:10.211Z","path":"/Users/shpadman/.config/nvim/lua/plugins/lint.lua","version":"1.0.0","taskID":"5469fb67-026c-419e-b773-6684923c5589"}
+{"id":"56571d03-86f8-4291-9fda-afaf0e86d184","ts":"2026-04-17T09:09:18.519Z","path":"/Users/shpadman/.config/nvim/lua/plugins/lsp.lua","version":"1.0.0","taskID":"5469fb67-026c-419e-b773-6684923c5589"}

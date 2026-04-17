@@ -90,7 +90,7 @@ return {
     })
 
     -- Configure other servers with default config
-    local servers = { "html", "cssls", "pyright", "gopls" }
+    local servers = { "html", "cssls", "pyright", "gopls", "marksman" }
     for _, server in ipairs(servers) do
       vim.lsp.config(server, {
         capabilities = capabilities,
